@@ -49,22 +49,7 @@ $ npm run build --report
 
 Got stuck? Check out our [documentation](https://github.com/epicmaxco/vuestic-admin/wiki) 🤓
 
-## Features
-* Vue.js
-* Bootstrap 4
-* Webpack
-* Responsive layout
-* Charts (Chart.js)
-* Maps (Google, Leaflet, amMap)
-* Progress bars
-* Material forms with beautiful validation
-* 4 Form wizard types
-* Static tables and datatables
-* Login/signup pages templates
-* Medium editor
-* Toasts, tooltips, popovers,
-* i18n
-* and many more!
+
 
 ## How can I support developers?
 - Star our GitHub repo :star:
